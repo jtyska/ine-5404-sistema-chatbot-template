@@ -1,3 +1,4 @@
+#encoding: utf-8
 from SistemaChatBot import SistemaChatBot as scb
 from Bots.BotZangado import BotZangado
 
