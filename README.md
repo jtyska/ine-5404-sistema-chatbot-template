@@ -9,4 +9,4 @@ Veja abaixo um exemplo de funcionamento do sistema:
 A partir do diagrama de classes fornecido e usando a estrutura de arquivos deste repositorio:
 
 1) Realizar a implementação do sistema com ao menos dois bots de personalidades diferentes
-2) Identificar e apontar problemas e possibilidades de melhorias na modelagem fornecida do ponto de vista dos conceitos e mecanismos de OO
+2) Fornecer as implementações de bot a outros grupos e tentar integrar outras implementações de bot no seu sistema
